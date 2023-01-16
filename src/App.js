@@ -87,7 +87,7 @@ const App = () => {
     <div>
       <LogoContainer>
         {newsArticles.length ? (
-          <InfoContainer style={{ marginBottom:"50px", marginTop:"50px"}}>
+          <InfoContainer style={{ marginBottom:"30px", marginTop:"30px"}}>
             <Card>
               <Typography variant="h5" component="h2">
                 Try saying: <br />
