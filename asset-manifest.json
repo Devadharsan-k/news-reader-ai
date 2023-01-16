@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/news-reader-ai/static/css/main.ff73cdbd.css",
+    "main.js": "/news-reader-ai/static/js/main.269d799a.js",
+    "index.html": "/news-reader-ai/index.html",
+    "main.ff73cdbd.css.map": "/news-reader-ai/static/css/main.ff73cdbd.css.map",
+    "main.269d799a.js.map": "/news-reader-ai/static/js/main.269d799a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff73cdbd.css",
+    "static/js/main.269d799a.js"
+  ]
+}
